@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+    <defs>
+        <style>
+            .cls-2{fill:none}
+        </style>
+    </defs>
+    <g id="Group_41965" transform="rotate(180 22.129 22.1)">
+        <g id="Ellipse_5" fill="#fff" stroke="#6054e9" stroke-width="2px" transform="translate(.258 .2)">
+            <circle cx="22" cy="22" r="22" stroke="none"/>
+            <circle cx="22" cy="22" r="21" class="cls-2"/>
+        </g>
+        <g id="expand_less-24px" transform="rotate(-90 22.1 9.242)">
+            <path id="Path_62395" d="M0 0h18.484v18.484H0z" class="cls-2"/>
+            <path id="Path_62396" fill="#05ffc5" d="M6.68 0L0 7.082l1.57 1.664L6.68 3.34l5.11 5.406 1.57-1.664z" transform="translate(2.562 4.65)"/>
+        </g>
+    </g>
+</svg>
